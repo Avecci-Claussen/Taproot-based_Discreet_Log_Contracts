@@ -638,7 +638,7 @@ Internal key:   NUMS + TaggedHash("NexumDLCv2/internal", leaves)
 **DLC B (FB chain)** — User B locks Y sats:
 
 ```
-Address:  fb1p<taproot_address_B>
+Address:  bc1p<taproot_address_B>
 Timeout:  Block H_b  (H_b > H_a)
 
 Claim script:   <userA_ephemeral_xonly> OP_CHECKSIG
